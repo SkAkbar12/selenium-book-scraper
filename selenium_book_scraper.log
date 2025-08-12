@@ -1,0 +1,50 @@
+2025-08-13 00:53:30,488 - INFO - ====== WebDriver manager ======
+2025-08-13 00:53:31,792 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-13 00:53:31,963 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-13 00:53:32,150 - INFO - Driver [C:\Users\skmda\.wdm\drivers\chromedriver\win64\139.0.7258.68\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-13 00:53:33,526 - INFO - Starting Selenium scraper...
+2025-08-13 00:53:33,526 - INFO - Scraping page 1: https://books.toscrape.com/catalogue/page-1.html
+2025-08-13 00:53:39,941 - ERROR - Error scraping book details from https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html: 'NoneType' object is not subscriptable
+2025-08-13 00:53:40,667 - ERROR - Error scraping book details from https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html: 'NoneType' object is not subscriptable
+2025-08-13 00:53:41,359 - ERROR - Error scraping book details from https://books.toscrape.com/catalogue/soumission_998/index.html: 'NoneType' object is not subscriptable
+2025-08-13 00:53:42,062 - ERROR - Error scraping book details from https://books.toscrape.com/catalogue/sharp-objects_997/index.html: 'NoneType' object is not subscriptable
+2025-08-13 00:53:42,770 - ERROR - Error scraping book details from https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html: 'NoneType' object is not subscriptable
+2025-08-13 00:53:43,482 - ERROR - Error scraping book details from https://books.toscrape.com/catalogue/the-requiem-red_995/index.html: 'NoneType' object is not subscriptable
+2025-08-13 00:53:44,645 - ERROR - Error scraping book details from https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html: 'NoneType' object is not subscriptable
+2025-08-13 00:53:45,804 - ERROR - Error scraping book details from https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html: 'NoneType' object is not subscriptable
+2025-08-13 00:53:46,533 - ERROR - Error scraping book details from https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html: 'NoneType' object is not subscriptable
+2025-08-13 00:53:47,245 - ERROR - Error scraping book details from https://books.toscrape.com/catalogue/the-black-maria_991/index.html: 'NoneType' object is not subscriptable
+2025-08-13 00:53:48,029 - ERROR - Error scraping book details from https://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html: 'NoneType' object is not subscriptable
+2025-08-13 00:53:48,741 - ERROR - Error scraping book details from https://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html: 'NoneType' object is not subscriptable
+2025-08-13 00:53:49,460 - ERROR - Error scraping book details from https://books.toscrape.com/catalogue/set-me-free_988/index.html: 'NoneType' object is not subscriptable
+2025-08-13 00:53:50,182 - ERROR - Error scraping book details from https://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html: 'NoneType' object is not subscriptable
+2025-08-13 00:53:50,889 - ERROR - Error scraping book details from https://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html: 'NoneType' object is not subscriptable
+2025-08-13 00:53:51,627 - ERROR - Error scraping book details from https://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html: 'NoneType' object is not subscriptable
+2025-08-13 00:53:52,358 - ERROR - Error scraping book details from https://books.toscrape.com/catalogue/olio_984/index.html: 'NoneType' object is not subscriptable
+2025-08-13 00:53:53,082 - ERROR - Error scraping book details from https://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html: 'NoneType' object is not subscriptable
+2025-08-13 00:53:53,822 - ERROR - Error scraping book details from https://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html: 'NoneType' object is not subscriptable
+2025-08-13 00:53:55,314 - ERROR - Error scraping book details from https://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html: 'NoneType' object is not subscriptable
+2025-08-13 00:53:55,314 - INFO - Scraping page 2: https://books.toscrape.com/catalogue/page-2.html
+2025-08-13 00:54:00,722 - ERROR - Error scraping book details from https://books.toscrape.com/catalogue/in-her-wake_980/index.html: 'NoneType' object is not subscriptable
+2025-08-13 00:54:02,055 - ERROR - Error scraping book details from https://books.toscrape.com/catalogue/how-music-works_979/index.html: 'NoneType' object is not subscriptable
+2025-08-13 00:54:03,444 - ERROR - Error scraping book details from https://books.toscrape.com/catalogue/foolproof-preserving-a-guide-to-small-batch-jams-jellies-pickles-condiments-and-more-a-foolproof-guide-to-making-small-batch-jams-jellies-pickles-condiments-and-more_978/index.html: 'NoneType' object is not subscriptable
+2025-08-13 00:54:04,679 - ERROR - Error scraping book details from https://books.toscrape.com/catalogue/chase-me-paris-nights-2_977/index.html: 'NoneType' object is not subscriptable
+2025-08-13 00:54:05,902 - ERROR - Error scraping book details from https://books.toscrape.com/catalogue/black-dust_976/index.html: 'NoneType' object is not subscriptable
+2025-08-13 00:54:06,979 - ERROR - Error scraping book details from https://books.toscrape.com/catalogue/birdsong-a-story-in-pictures_975/index.html: 'NoneType' object is not subscriptable
+2025-08-13 00:54:08,040 - ERROR - Error scraping book details from https://books.toscrape.com/catalogue/americas-cradle-of-quarterbacks-western-pennsylvanias-football-factory-from-johnny-unitas-to-joe-montana_974/index.html: 'NoneType' object is not subscriptable
+2025-08-13 00:54:08,752 - ERROR - Error scraping book details from https://books.toscrape.com/catalogue/aladdin-and-his-wonderful-lamp_973/index.html: 'NoneType' object is not subscriptable
+2025-08-13 00:54:09,795 - ERROR - Error scraping book details from https://books.toscrape.com/catalogue/worlds-elsewhere-journeys-around-shakespeares-globe_972/index.html: 'NoneType' object is not subscriptable
+2025-08-13 00:54:10,834 - ERROR - Error scraping book details from https://books.toscrape.com/catalogue/wall-and-piece_971/index.html: 'NoneType' object is not subscriptable
+2025-08-13 00:54:11,898 - ERROR - Error scraping book details from https://books.toscrape.com/catalogue/the-four-agreements-a-practical-guide-to-personal-freedom_970/index.html: 'NoneType' object is not subscriptable
+2025-08-13 00:54:12,606 - ERROR - Error scraping book details from https://books.toscrape.com/catalogue/the-five-love-languages-how-to-express-heartfelt-commitment-to-your-mate_969/index.html: 'NoneType' object is not subscriptable
+2025-08-13 00:54:13,330 - ERROR - Error scraping book details from https://books.toscrape.com/catalogue/the-elephant-tree_968/index.html: 'NoneType' object is not subscriptable
+2025-08-13 00:54:14,050 - ERROR - Error scraping book details from https://books.toscrape.com/catalogue/the-bear-and-the-piano_967/index.html: 'NoneType' object is not subscriptable
+2025-08-13 00:54:15,102 - ERROR - Error scraping book details from https://books.toscrape.com/catalogue/sophies-world_966/index.html: 'NoneType' object is not subscriptable
+2025-08-13 00:54:15,797 - ERROR - Error scraping book details from https://books.toscrape.com/catalogue/penny-maybe_965/index.html: 'NoneType' object is not subscriptable
+2025-08-13 00:54:16,536 - ERROR - Error scraping book details from https://books.toscrape.com/catalogue/maude-1883-1993she-grew-up-with-the-country_964/index.html: 'NoneType' object is not subscriptable
+2025-08-13 00:54:17,585 - ERROR - Error scraping book details from https://books.toscrape.com/catalogue/in-a-dark-dark-wood_963/index.html: 'NoneType' object is not subscriptable
+2025-08-13 00:54:18,319 - ERROR - Error scraping book details from https://books.toscrape.com/catalogue/behind-closed-doors_962/index.html: 'NoneType' object is not subscriptable
+2025-08-13 00:54:19,354 - ERROR - Error scraping book details from https://books.toscrape.com/catalogue/you-cant-bury-them-all-poems_961/index.html: 'NoneType' object is not subscriptable
+2025-08-13 00:54:19,357 - INFO - Data successfully saved to scraped_data\books_data.csv
+2025-08-13 00:54:19,360 - INFO - Data successfully saved to scraped_data\books_data.json
+2025-08-13 00:54:21,627 - INFO - Scraping complete. Scraped 40 books in 48.10 seconds.
